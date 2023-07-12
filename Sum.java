@@ -3,5 +3,6 @@ class Sum {
     int a = 9;
     int b = 6;
     System.out.println(a + b);
+    System.out.println("Hi");
   }
 }
