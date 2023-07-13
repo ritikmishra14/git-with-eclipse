@@ -12,7 +12,7 @@ public class Divide {
       System.out.println("Not a prime");
 
     } else {
-      System.out.println("Is a prime");
+      System.out.println("Is a prime  ...");
     }
   }
 }
