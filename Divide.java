@@ -9,7 +9,7 @@ public class Divide {
       }
     }
     if (!flag) {
-      System.out.println("Not a prime");
+      System.out.println("Not a prime"+ "I am making the changes");
 
     } else {
       System.out.println("Is a prime  ...");
